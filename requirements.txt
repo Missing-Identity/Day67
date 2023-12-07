@@ -1,0 +1,9 @@
+Bootstrap_Flask
+Flask
+Flask_CKEditor
+flask_sqlalchemy
+Flask_WTF
+WTForms
+werkzeug
+python-dotenv
+requests
